@@ -11,7 +11,7 @@ Made in Python. Contains `forms.py` with the functions of making the interaction
 
 The folder `static` has a simple CSS sheet. The folder `templates` has an unique HTML5 sheet that uses W3S tabs for using different tabs. All the parts have been modeled with *Bootstrap* (with the posibility of adding a Bootstrap stylesheet and everything with work automatically). `Utilities.js` contains the JavaScript code to obtain information from HTML, and make AJAX calls to asynchronously send the response to the client side without having to refresh all the page with every change.
 
--`data` has some csv examples to try in the application.
+- `data` has some csv examples to try in the application.
 
 - `BD_proteins_and_drugs` contiene el script SQL de creación de la BD con las tablas de proteinas y drogas disponibles.
 
