@@ -1,0 +1,142 @@
+drug,target,pchembl_value
+PALBOCICLIB,Cyclin-dependent kinase 4/cyclin D,7.96
+SORAFENIB,Serine/threonine-protein kinase B-raf,7.34
+BOSUTINIB,NPM/ALK (Nucleophosmin/ALK tyrosine kinase receptor),6.7
+BOSUTINIB,NPM/ALK (Nucleophosmin/ALK tyrosine kinase receptor),6.82
+SORAFENIB,Serine/threonine-protein kinase B-raf,7.82
+SORAFENIB,Serine/threonine-protein kinase B-raf,8.52
+SORAFENIB,Serine/threonine-protein kinase B-raf,6.7
+CRIZOTINIB,ALK tyrosine kinase receptor,7.7
+SORAFENIB,Serine/threonine-protein kinase B-raf,7.42
+MIDOSTAURIN,ALK tyrosine kinase receptor,6.57
+SUNITINIB,ALK tyrosine kinase receptor,6.77
+DASATINIB,Serine/threonine-protein kinase B-raf,6.3
+PAZOPANIB,Serine/threonine-protein kinase B-raf,6.14
+SORAFENIB,Serine/threonine-protein kinase B-raf,6.27
+DASATINIB,Serine/threonine-protein kinase B-raf,6.24
+PAZOPANIB,Serine/threonine-protein kinase B-raf,6.37
+SORAFENIB,Serine/threonine-protein kinase B-raf,6.58
+SORAFENIB,Serine/threonine-protein kinase B-raf,7.12
+SORAFENIB,Serine/threonine-protein kinase B-raf,7.66
+SORAFENIB,Serine/threonine-protein kinase B-raf,7.66
+MIDOSTAURIN,ALK tyrosine kinase receptor,6.57
+SUNITINIB,ALK tyrosine kinase receptor,6.77
+SORAFENIB,Serine/threonine-protein kinase B-raf,6.27
+CRIZOTINIB,ALK tyrosine kinase receptor,6.22
+CRIZOTINIB,ALK tyrosine kinase receptor,7.7
+SUNITINIB,ALK tyrosine kinase receptor,6.77
+CRIZOTINIB,ALK tyrosine kinase receptor,8.48
+DASATINIB,Serine/threonine-protein kinase B-raf,6.3
+DASATINIB,Serine/threonine-protein kinase B-raf,6.24
+MIDOSTAURIN,ALK tyrosine kinase receptor,6.57
+NINTEDANIB,ALK tyrosine kinase receptor,7.51
+BOSUTINIB,ALK tyrosine kinase receptor,6.16
+NILOTINIB,Serine/threonine-protein kinase B-raf,6.24
+SORAFENIB,Serine/threonine-protein kinase B-raf,6.27
+SORAFENIB,Serine/threonine-protein kinase B-raf,6.58
+PAZOPANIB,Serine/threonine-protein kinase B-raf,6.14
+PAZOPANIB,Serine/threonine-protein kinase B-raf,6.37
+SUNITINIB,ALK tyrosine kinase receptor,7.26
+SORAFENIB,Serine/threonine-protein kinase B-raf,7.66
+ALECTINIB,ALK tyrosine kinase receptor,8.72
+REGORAFENIB,Serine/threonine-protein kinase B-raf,7.55
+CRIZOTINIB,ALK tyrosine kinase receptor,6.7
+VEMURAFENIB,Serine/threonine-protein kinase B-raf,7
+SORAFENIB,Serine/threonine-protein kinase B-raf,7.66
+VEMURAFENIB,Serine/threonine-protein kinase B-raf,7.68
+CRIZOTINIB,ALK tyrosine kinase receptor,6.82
+CERITINIB,ALK tyrosine kinase receptor,7.39
+CERITINIB,ALK tyrosine kinase receptor,7.58
+CERITINIB,ALK tyrosine kinase receptor,8.66
+CERITINIB,ALK tyrosine kinase receptor,9.7
+CERITINIB,ALK tyrosine kinase receptor,7.39
+CERITINIB,ALK tyrosine kinase receptor,9.7
+CRIZOTINIB,ALK tyrosine kinase receptor,8.3
+CRIZOTINIB,ALK tyrosine kinase receptor,6.96
+CRIZOTINIB,ALK tyrosine kinase receptor,6.24
+CRIZOTINIB,ALK tyrosine kinase receptor,6.58
+CRIZOTINIB,NPM/ALK (Nucleophosmin/ALK tyrosine kinase receptor),7.29
+PALBOCICLIB,Cyclin-dependent kinase 4/cyclin D1,7.96
+PALBOCICLIB,Cyclin-dependent kinase 4/cyclin D1,8.27
+PALBOCICLIB,CDK6/cyclin D1,8.43
+CRIZOTINIB,ALK tyrosine kinase receptor,8.09
+CRIZOTINIB,ALK tyrosine kinase receptor,6.21
+CRIZOTINIB,ALK tyrosine kinase receptor,6.08
+CRIZOTINIB,ALK tyrosine kinase receptor,7.21
+CRIZOTINIB,ALK tyrosine kinase receptor,6.97
+CRIZOTINIB,ALK tyrosine kinase receptor,7.1
+SORAFENIB,Serine/threonine-protein kinase B-raf,6.94
+BORTEZOMIB,Nuclear factor NF-kappa-B complex,8.01
+IXAZOMIB,Nuclear factor NF-kappa-B complex,8.21
+PALBOCICLIB,Cyclin-dependent kinase 4/cyclin D1,8.7
+CRIZOTINIB,ALK tyrosine kinase receptor,7.55
+SORAFENIB,Serine/threonine-protein kinase B-raf,7.37
+CRIZOTINIB,ALK tyrosine kinase receptor,9.13
+CRIZOTINIB,ALK tyrosine kinase receptor,8.09
+CRIZOTINIB,ALK tyrosine kinase receptor,7.1
+CRIZOTINIB,ALK tyrosine kinase receptor,6.07
+CRIZOTINIB,ALK tyrosine kinase receptor,6.78
+CRIZOTINIB,ALK tyrosine kinase receptor,6.32
+CRIZOTINIB,ALK tyrosine kinase receptor,6.22
+CRIZOTINIB,ALK tyrosine kinase receptor,6.2
+SORAFENIB,Serine/threonine-protein kinase B-raf,6.87
+SORAFENIB,Serine/threonine-protein kinase B-raf,6.92
+SORAFENIB,Serine/threonine-protein kinase B-raf,7.58
+VEMURAFENIB,Serine/threonine-protein kinase B-raf,7.64
+VEMURAFENIB,Serine/threonine-protein kinase B-raf,7.48
+CRIZOTINIB,ALK tyrosine kinase receptor,7.86
+CRIZOTINIB,ALK tyrosine kinase receptor,6.91
+SORAFENIB,Serine/threonine-protein kinase B-raf,7.92
+CERITINIB,ALK tyrosine kinase receptor,8.47
+SORAFENIB,Serine/threonine-protein kinase B-raf,7.92
+SORAFENIB,Serine/threonine-protein kinase B-raf,7.42
+CRIZOTINIB,ALK tyrosine kinase receptor,7.62
+DABRAFENIB,Serine/threonine-protein kinase B-raf,7.96
+VEMURAFENIB,Serine/threonine-protein kinase B-raf,6.82
+DABRAFENIB,Serine/threonine-protein kinase B-raf,8.01
+VEMURAFENIB,Serine/threonine-protein kinase B-raf,7.47
+VEMURAFENIB,Serine/threonine-protein kinase B-raf,8.21
+VEMURAFENIB,Serine/threonine-protein kinase B-raf,6.58
+DABRAFENIB,Serine/threonine-protein kinase B-raf,8.22
+VEMURAFENIB,Serine/threonine-protein kinase B-raf,7.48
+PALBOCICLIB,Cyclin-dependent kinase 4/cyclin D1,7.96
+CERITINIB,ALK tyrosine kinase receptor,7.85
+CERITINIB,ALK tyrosine kinase receptor,7.54
+SORAFENIB,Serine/threonine-protein kinase B-raf,6.92
+ALECTINIB,ALK tyrosine kinase receptor,7.94
+ALECTINIB,ALK tyrosine kinase receptor,7.82
+CRIZOTINIB,EML4-ALK ,7.25
+CERITINIB,EML4-ALK ,7.39
+ALECTINIB,EML4-ALK ,8.7
+VEMURAFENIB,Serine/threonine-protein kinase B-raf,6.55
+CERITINIB,ALK tyrosine kinase receptor,7.85
+CERITINIB,ALK tyrosine kinase receptor,7.54
+SORAFENIB,Serine/threonine-protein kinase B-raf,7.42
+VEMURAFENIB,Serine/threonine-protein kinase B-raf,7.7
+DABRAFENIB,Serine/threonine-protein kinase B-raf,9.4
+VEMURAFENIB,Serine/threonine-protein kinase B-raf,8.4
+DABRAFENIB,Serine/threonine-protein kinase B-raf,9
+DABRAFENIB,Serine/threonine-protein kinase B-raf,6.28
+VEMURAFENIB,Serine/threonine-protein kinase B-raf,7.77
+DABRAFENIB,Serine/threonine-protein kinase B-raf,9
+VEMURAFENIB,Serine/threonine-protein kinase B-raf,6.92
+VEMURAFENIB,Serine/threonine-protein kinase B-raf,7.23
+VEMURAFENIB,Serine/threonine-protein kinase B-raf,7.51
+BRIGATINIB,ALK tyrosine kinase receptor,9.43
+CRIZOTINIB,ALK tyrosine kinase receptor,9.19
+ALECTINIB,ALK tyrosine kinase receptor,7.72
+PALBOCICLIB,Cyclin-dependent kinase 4/cyclin D1,7.96
+SORAFENIB,Serine/threonine-protein kinase B-raf,6.51
+CERITINIB,ALK tyrosine kinase receptor,8.64
+CRIZOTINIB,ALK tyrosine kinase receptor,7.6
+CRIZOTINIB,ALK tyrosine kinase receptor,8.36
+VEMURAFENIB,Serine/threonine-protein kinase B-raf,6.1
+SORAFENIB,Serine/threonine-protein kinase B-raf,7.9
+CRIZOTINIB,ALK tyrosine kinase receptor,7.44
+CRIZOTINIB,ALK tyrosine kinase receptor,6.66
+ALECTINIB,ALK tyrosine kinase receptor,8.28
+CRIZOTINIB,ALK tyrosine kinase receptor,8.68
+CRIZOTINIB,ALK tyrosine kinase receptor,8.57
+CRIZOTINIB,ALK tyrosine kinase receptor,8.13
+CRIZOTINIB,ALK tyrosine kinase receptor,8.54
+PALBOCICLIB,Cyclin-dependent kinase 4/cyclin D1,8

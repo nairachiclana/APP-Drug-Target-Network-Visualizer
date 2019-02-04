@@ -1,0 +1,14 @@
+drug,target,pchembl_value
+AMSACRINE,HERG,6.68
+SUNITINIB,Serine/threonine-protein kinase Chk2,8.15
+AMSACRINE,HERG,6.68
+SUNITINIB,Serine/threonine-protein kinase Chk2,8
+GEFITINIB,Serine/threonine-protein kinase Chk2,6.1
+BOSUTINIB,Serine/threonine-protein kinase Chk2,6.92
+SUNITINIB,Serine/threonine-protein kinase Chk2,7.77
+GEFITINIB,Serine/threonine-protein kinase Chk2,6.2
+GEFITINIB,Serine/threonine-protein kinase Chk2,6.2
+SUNITINIB,HERG,6.3
+LAPATINIB,HERG,6
+NILOTINIB,HERG,6.9
+SUNITINIB,HERG,6.6
