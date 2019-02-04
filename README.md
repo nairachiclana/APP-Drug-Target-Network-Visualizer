@@ -13,6 +13,8 @@ The folder `static` has a simple CSS sheet. The folder `templates` has an unique
 
 -`data` has some csv examples to try in the application.
 
+- `BD_proteins_and_drugs` contiene el script SQL de creación de la BD con las tablas de proteinas y drogas disponibles.
+
 -----
 
 **Needed python libraries:**
